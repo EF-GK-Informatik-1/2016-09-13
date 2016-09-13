@@ -9,6 +9,7 @@
         fahreMarke();
         fahreMarke();
         fahreMarke();
+        fahreMarke();
         drehe("rechts");
     }
     
